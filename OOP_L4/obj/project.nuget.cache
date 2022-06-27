@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YqhPxuSZ1YJucrAOkPyJYz1B3I86q5ByH3FocV7RkeMG0uPXI41JnEWZjMdcX7h+OOhFnSjILVo9U7yPvUtwLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Game\\source\\repos\\Babych_Lab4\\OOP_L4\\OOP_L4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Game\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
